@@ -1,0 +1,37 @@
+.content {
+  top: 55px;
+  width: 700px;
+  justify-content: center;
+  margin: auto;
+  border: 2px solid black;
+  padding: 4px;
+  text-align: center;
+  background-color: blanchedalmond;
+}
+.background {
+  background-image: url("https://media2.giphy.com/media/5n9E0H9ZkVsfNKacI1/giphy.gif");
+  background-repeat: repeat;
+  height: 1000px;
+}
+
+body {
+  padding: 25px;
+}
+
+.video {
+  margin: 25px auto;
+}
+
+.header {
+  font-size: xx-large;
+  background-color: burlywood;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.para-content {
+  margin: 25px 5px;
+}
+
+.para {
+  padding: 25px;
+}
